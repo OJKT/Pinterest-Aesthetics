@@ -36,3 +36,4 @@ TAB BAR
         name: 'finish_body_render',
         time: Date.now()});
     </script></body></html>
+<!--I want this search bar... and only the search bar... so im going to sift through this code some more until i have to core code and aesthetics.... -->
